@@ -1,0 +1,11 @@
+c:\users\tomek\documents\projekty\automat_perkusyjny\automat_perkusyjny\bin\Debug\automat_perkusyjny.exe.config
+c:\users\tomek\documents\projekty\automat_perkusyjny\automat_perkusyjny\bin\Debug\automat_perkusyjny.exe
+c:\users\tomek\documents\projekty\automat_perkusyjny\automat_perkusyjny\bin\Debug\automat_perkusyjny.pdb
+c:\users\tomek\documents\projekty\automat_perkusyjny\automat_perkusyjny\obj\Debug\automat_perkusyjny.csprojResolveAssemblyReference.cache
+c:\users\tomek\documents\projekty\automat_perkusyjny\automat_perkusyjny\obj\Debug\automat_perkusyjny.Form1.resources
+c:\users\tomek\documents\projekty\automat_perkusyjny\automat_perkusyjny\obj\Debug\automat_perkusyjny.Properties.Resources.resources
+c:\users\tomek\documents\projekty\automat_perkusyjny\automat_perkusyjny\obj\Debug\automat_perkusyjny.csproj.GenerateResource.Cache
+c:\users\tomek\documents\projekty\automat_perkusyjny\automat_perkusyjny\obj\Debug\automat_perkusyjny.exe
+c:\users\tomek\documents\projekty\automat_perkusyjny\automat_perkusyjny\obj\Debug\automat_perkusyjny.pdb
+C:\Users\Tomek\documents\projekty\automat_perkusyjny\automat_perkusyjny\bin\Debug\NAudio.dll
+C:\Users\Tomek\documents\projekty\automat_perkusyjny\automat_perkusyjny\bin\Debug\NAudio.xml
